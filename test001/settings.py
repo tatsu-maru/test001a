@@ -25,7 +25,7 @@ SECRET_KEY = 'wc)b=c)j^vv1f6-d&u%fy+1j2h^$&qx4j2_i+m#fs!qd6dz5(+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['tatsu-test001a.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
